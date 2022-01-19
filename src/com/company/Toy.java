@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Random;
-
+//
 public class Toy {
     public String name;
     public int durability;
